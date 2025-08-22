@@ -1,4 +1,4 @@
-# Are-occupancy-models-always-appropriate-
+# Are-occupancy-models-always-appropriate?
 Simulations examining fitting occupancy models compared to other analytical options including logistic regression, Poisson and NB GLMs, as well as variants of N-mixture models to detection/non-detection and count data across different scenarios with heterogeneity in detection probability and varying sample sizes.
 
 # Summary
